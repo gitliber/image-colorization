@@ -12,4 +12,3 @@ Method can be choose from this list:
 * `reg_part_model`
 * `class_weights_model`
 * `class_wo_weights_model`
-
