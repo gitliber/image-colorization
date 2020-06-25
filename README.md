@@ -7,6 +7,6 @@ Directory with sourcecode of the approaches
 
 Directory contains:
 
-* **models** - directory that contains all models used to color images and videos
-* **image_colorization** - directory containing scripts for testing the model - coloring the photos
-* **utils** - directory that contains other utils we use in the process
+* [models](https://github.com/gitliber/image-colorization/tree/master/models)  - directory that contains all models used to color images and videos
+* [image_colorization](https://github.com/gitliber/image-colorization/tree/master/image_colorization) - directory containing scripts for testing the model - coloring the photos
+* [utils](https://github.com/gitliber/image-colorization/tree/master/utils) - directory that contains other utils we use in the process
